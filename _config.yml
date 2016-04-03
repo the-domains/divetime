@@ -1,0 +1,28 @@
+name: divetime
+favicon: null
+layout_spectrum: 0.005590375512838364
+typography_spectrum: 0.9163975971750915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6411520643159747
+  lightness: 0.0748084366787225
+  saturation: 0.7948672058992088
+  rhythmicContrast: 0.3615119301248342
+purpose: []
